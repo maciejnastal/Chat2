@@ -1,0 +1,10 @@
+org\example\ChatClient.class
+org\example\ClientHandler.class
+org\example\ChatClient$IncomingMessageHandler.class
+org\example\ChatRoom.class
+org\example\ChatServer.class
+org\example\ChatRoomRepository.class
+org\example\ChatClient$OutgoingMessageHandler.class
+org\example\ChatClient$1.class
+org\example\ChatMessageRepository.class
+org\example\ChatMessage.class
