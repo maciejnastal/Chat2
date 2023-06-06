@@ -143,3 +143,7 @@ public class ChatClient {
         ChatClient client = new ChatClient(serverAddress, serverPort);
     }
 }
+
+
+
+//Zmiana testowa
